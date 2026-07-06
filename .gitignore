@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Hugging Face cache
+huggingface_cache/
+
+# Python cache
+__pycache__/
+*.pyc
