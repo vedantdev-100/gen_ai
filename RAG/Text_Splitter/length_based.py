@@ -14,4 +14,4 @@ splitter = RecursiveCharacterTextSplitter(
 result = splitter.split_documents(docs)
 
 print(len(result))
-# print(result[3].page_content)
+print(result[3].page_content)
